@@ -3,6 +3,9 @@ This personal computer wishlist was created as a demostration of MySQL and Objec
 # Website image
 ![Main page screenshot](./readMeAssets/main.png)
 
+## Deployed link 
+* [Live Site](https://mysqltestdan-1a0ce203e9a4.herokuapp.com/)
+
 # Technologies
 * Express-handlebars 
 * HTML 
